@@ -57,19 +57,19 @@
     <div class="timelineitem">
       <div class="tdate">Summer 2014</div>
       <div class="ttitle">University of Wisconsin-Madison: Research Internship</div>
-      <div class="tdesc"><i>Madison, WI, USA.</i> </br> Worked jointly with Prof. Parmesh Ramanathan and Prof. Krishna Sivalingam on <span class="thigh">Information-Centric Networking</span>, a next-generation Internet architecture.</div>
+      <div class="tdesc"><i>Madison, WI, USA.</i> </br> <span class="thigh">Information-Centric Networking</span>, a next-generation Internet architecture.</div>
     </div>
     <div class="timelineitem">
       <div class="tdate">Summer 2013</div>
       <div class="ttitle">University of Wisconsin-Madison: Research Internship</div>
-      <div class="tdesc"><i>Madison, WI, USA.</i> </br> Worked with Prof. Parmesh Ramanathan on networking architectures for high-speed inter-networked virtual reality applications.</div>
+      <div class="tdesc"><i>Madison, WI, USA.</i> </br> Networking architectures for high-speed inter-networked virtual reality.</div>
     </div>
     <div class="timelineitem">
       <div class="tdate">2010-Current
       </div>
       <div class="ttitle">Indian Institute of Technology Madras</div>
       <div class="tdesc"><i>Chennai, IN.</i> </br>B.Tech (Hons), M.Tech in <span class="thigh">Computer Science and Engineering</span></div>
-      <div class="tdesc"><span class="thigh">Research</span> : Next-generation Internet Architectures.</div>
+      <div class="tdesc"><span class="thigh">Thesis</span> : Revisiting Pervasive Content Caching in Information-Centric Networks.</div>
       <div class="tdesc">I was jointly advised by Prof. Krishna Sivalingam at IIT-M and </br> Prof. Parmesh Ramanathan at UW-Madison</div>
       
     </div>
@@ -101,7 +101,7 @@
         <div >
           <div class="pub">
             <div class="pubd">
-             <p>I recently graduated with a B.Tech (Hons), M.Tech in Computer Science and Engineering from IIT Madras. My interests primarily lie in the fields of Computer Networks and Networked Systems. I love challenging my mind in general, be it mathematically or in the creative arts. Chess, the rubik's cube, and strategy games are some of my distractions. Being an avid gamer, I'm also passionate about Networking and AI in Computer Games. I'm also known for my skills in design, especially Video editing and motion graphics. I attribute some of these abilities to <a href = "http://en.wikipedia.org/wiki/Grapheme%E2%80%93color_synesthesia" color="blue"> color-synesthesia</a> .</p>
+             <p>I recently graduated with a B.Tech (Hons), M.Tech in Computer Science and Engineering from IIT Madras. My interests primarily lie in the fields of Computer Networks and Networked Systems. Being an avid gamer, I'm also passionate about Networking and AI in Computer Games. I love challenging my mind in general, be it mathematically or in the creative arts.  I'm also known for my skills in design, especially Video editing and motion graphics. </p>
     <b> Email: </b> abhiram.ravi.s _at_ gmail.com </br> <b> Resume: </b> <a href="abhiramravi-resume.pdf" > [PDF] </a>, <a href="abhiramravi-resume.zip" > [Template] </a> - a modified version of <a href=http://arun.chagantys.org> Slinky's  </br> </br>
    
 <p></p>
@@ -128,7 +128,7 @@ font-size: 10px; color: #6E6A68; text-decoration: none ;"><em>Web Counter</em>
 
   <!--
   <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4">I attribute some of these abilities to <a href = "http://en.wikipedia.org/wiki/Grapheme%E2%80%93color_synesthesia" color="blue"> color-synesthesia</a> .
       <div class="pp">
         <img src="img/cubevid.jpg" class="img-circle imgb">
         <div class="ppt">Rubik's Cube Tutorials</div>
