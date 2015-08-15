@@ -8,7 +8,7 @@
   <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
   <link href="style.css" rel="stylesheet">
   <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,500' rel='stylesheet' type='text/css'>
-
+  <link rel="shortcut icon" href="http://sstatic.net/stackoverflow/img/favicon.ico">
 
   
 
@@ -85,7 +85,7 @@
 <hr class="soft">
 
 <div class="container">
-  <h2>About</h2>
+  <h2>Info</h2>
   <div id="pubs">
     
     <div class="pubwrap">
