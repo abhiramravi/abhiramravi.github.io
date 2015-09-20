@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="I recently graduated with a B.Tech (Hons), M.Tech in Computer Science and Engineering from IIT Madras. My interests primarily lie in the fields of Computer Networks and Networked Systems. Being an avid gamer, I'm also passionate about Networking and AI in Computer Games. I love challenging my mind in general, be it mathematically or in the creative arts. I'm also known for my skills in design, especially Video editing and motion graphics.">
   <meta name="keywords" content="Google HQ, Computer Networking, Graphics, AI, Math">
-  <meta name="author" content="Hege Refsnes">
+  <meta name="author" content="Abhiram Ravi">
   <title>Abhiram Ravi</title>
   <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
   <link href="style.css" rel="stylesheet">
@@ -54,7 +54,7 @@
     <div class="timelineitem">
       <div class="tdate">Oct, 2015- </div>
       <div class="ttitle">Google Headquarters</div>
-      <div class="tdesc"><i>Mountain View, CA, USA.</i> </br>Software Engineer. </br>I look forward to working with the largest computer network in the world: Google - starting later this year.</div>
+      <div class="tdesc"><i>Mountain View, CA, USA.</i> </br>Software Engineer. </br>Platforms Networking (PlaNet) Team. </br> Google Research. </div>
     </div>
     
     <div class="timelineitem">
