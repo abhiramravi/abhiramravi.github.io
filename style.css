@@ -11,7 +11,7 @@ html, body {
   margin-bottom: 40px;
 }
 .bg1 {
-  background-image: url('cover2.jpg');
+  background-image: url('bwe-topo-4.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto 100%;
@@ -20,16 +20,18 @@ html, body {
   background-color: #299DB6;
 }
 #headerblob {
-  position: absolute;
+  position: relative;
   left: 20%;
-  top: 265px;
+  top: 0px;
   width: 80%;
 }
 #headertext {
+  color: black;
   font-size: 26px;
   font-weight: 400;
   margin-top: 50px;
   margin-left: 220px;
+  margin-bottom: 40px;
 }
 .imgme {
   border: 3px solid white;
@@ -38,7 +40,7 @@ html, body {
 }
 #htname {
   font-size: 46px;
-  font-weight: 400;
+  font-weight: 500;
 }
 #htdesc {
   font-size: 18px;
